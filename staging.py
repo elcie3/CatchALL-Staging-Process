@@ -4,7 +4,7 @@ import ffmpy
 from moviepy.video.io.ffmpeg_tools import ffmpeg_extract_subclip
 import subprocess
 import math
-from watch_dog import gen_filename
+
 """ requirements
 conda install -c conda-forge moviepy
 or 
