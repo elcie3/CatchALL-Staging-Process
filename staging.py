@@ -13,7 +13,6 @@ pip install moviepy
 pip install ffmpy
 """
 
-video =  cv2.VideoCapture("ch01_08-13_14-59-9.mp4")
 time_per_trim = 60
 
 def get_fps(video):
